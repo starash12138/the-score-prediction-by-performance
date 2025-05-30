@@ -44,15 +44,12 @@ Conduct educational intervention experiments to validate the practical effects o
 
 #### Conclusion
 1、Positive Results  
-（1）High Model Performance: The predictive model achieved an R² of 0.92 and an MSE of 0.84, demonstrating exceptional accuracy in explaining exam score variability and minimizing prediction errors.  
-This indicates strong effectiveness in capturing relationships between input features (e.g.Hours_Studied, Attendance) and student performance.  
-（2）Actionable Insights: Key factors like study hours (10–30 hours correlated with high scores), previous academic performance, and tutoring sessions were identified as significant predictors,   
-providing clear targets for educational interventions.  
+（1）High Model Performance: The predictive model achieved an R² of 0.92 and an MSE of 0.84, demonstrating exceptional accuracy in explaining exam score variability and minimizing prediction errors.This indicates strong effectiveness in capturing relationships between input features (e.g.Hours_Studied, Attendance) and student performance.  
+（2）Actionable Insights: Key factors like study hours (10–30 hours correlated with high scores), previous academic performance, and tutoring sessions were identified as significant predictors,providing clear targets for educational interventions.  
 （3）Visual Validation: Bubble charts and learning curves visually confirmed trends, such as the concentration of high scores within optimal study hour ranges, enhancing the credibility of findings.  
  
 2、Negative Results  
-（1）Missing Dynamic Features: Real-time data on student behavior (e.g., classroom engagement, mental health) and contextual factors (e.g., family emergencies) are absent,   
-limiting the model’s ability to adapt to sudden changes.  
+（1）Missing Dynamic Features: Real-time data on student behavior (e.g., classroom engagement, mental health) and contextual factors (e.g., family emergencies) are absent,limiting the model’s ability to adapt to sudden changes.  
 （2）Interpretability challenges: As a black-box model, gradient boosting lacks transparency in explaining feature interactions(e.g.,how learning time and parental involvement work together to affect scores), hindering understanding of the model  
 
 3、Cautions  
