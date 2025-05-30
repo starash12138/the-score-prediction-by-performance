@@ -1,16 +1,16 @@
 ### the-score-prediction-by-performance
 
-**Chen Xu**
+**Chen Xu**  
 
 #### Abstract
-This project aims to build a student performance prediction model using machine learning techniques, analyzing the impact of Exam_Score such as Hours_Studied and Parental_Involvement on exam scores.
-Through data preprocessing, model training, and evaluation, the project validates the improvement of feature engineering on prediction accuracy and identifies key influencing factors.
-Future work may explore cross-disciplinary data integration to optimize model generalization.
+This project aims to build a student performance prediction model using machine learning techniques, analyzing the impact of Exam_Score such as Hours_Studied and Parental_Involvement on exam scores.  
+Through data preprocessing, model training, and evaluation, the project validates the improvement of feature engineering on prediction accuracy and identifies key influencing factors.  
+Future work may explore cross-disciplinary data integration to optimize model generalization.  
 
 #### Rationale
-The prediction of student performance is of vital practical significance for the optimization of educational resource allocation and personalized teaching support. 
-Precisely identifying the key factors that influence academic results can help educators intervene in learning risks proactively, improve teaching efficiency,
-and provide students and parents with a scientific reference for learning planning.
+The prediction of student performance is of vital practical significance for the optimization of educational resource allocation and personalized teaching support.   
+Precisely identifying the key factors that influence academic results can help educators intervene in learning risks proactively, improve teaching efficiency,  
+and provide students and parents with a scientific reference for learning planning.  
 
 #### Research Question
 1、What key factors (e.g.,Hours_Studied, Attendance, Access_to_Resources) are significantly related to student Exam_Score? 
