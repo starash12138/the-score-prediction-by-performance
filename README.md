@@ -20,7 +20,7 @@ A dataset of 6,607 records is used, covering 17 features (e.g., Sleep_Hours，Pr
 The dataset is collected by Lai Ng. in the Kaggle website.  
 
 #### Methodology
-1、Data Preprocessing
+1、Data Preprocessing  
 （1）Categorical variables (e.g., Internet_Access，School_Type) were encoded using one-hot encoding to convert them into binary features, ensuring no assumed order between categories.  
 （2）Features significantly correlated with exam scores (e.g.Hours_Studied, Attendance) were selected through correlation analysis.  
 （3）Outliers (e.g.samples with study hours > 40 hours) were removed to clean the dataset.  
